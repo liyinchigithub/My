@@ -1,0 +1,14 @@
+/Users/liyinchi/workspace/C#/MyApp/bin/Debug/net7.0/MyApp
+/Users/liyinchi/workspace/C#/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Users/liyinchi/workspace/C#/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Users/liyinchi/workspace/C#/MyApp/bin/Debug/net7.0/MyApp.dll
+/Users/liyinchi/workspace/C#/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Users/liyinchi/workspace/C#/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liyinchi/workspace/C#/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Users/liyinchi/workspace/C#/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Users/liyinchi/workspace/C#/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/liyinchi/workspace/C#/MyApp/obj/Debug/net7.0/MyApp.dll
+/Users/liyinchi/workspace/C#/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Users/liyinchi/workspace/C#/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Users/liyinchi/workspace/C#/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Users/liyinchi/workspace/C#/MyApp/obj/Debug/net7.0/ref/MyApp.dll
